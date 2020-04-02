@@ -1,0 +1,19 @@
+{
+  "name": "avstreamdashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayankparmar/AVStreamDashboard.git"
+  },
+  "author": "Mayank Parmar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mayankparmar/AVStreamDashboard/issues"
+  },
+  "homepage": "https://github.com/mayankparmar/AVStreamDashboard#readme"
+}
